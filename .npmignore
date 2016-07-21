@@ -16,3 +16,10 @@ config.json
 coverage.*
 lib-cov
 complexity.md
+.travis.yml
+bower.json
+.npmignore
+component.json
+example
+test
+images
